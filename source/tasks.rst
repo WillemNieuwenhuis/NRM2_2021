@@ -25,11 +25,18 @@ Steps
 #####
 
 Setup environment
-  Create two groups: 
-    consultants (yourself and collegues)
-      add your group members
-    clients (may be filled in later)
+  Manage users:
+    Create two groups: 
+      consultants (yourself and collegues)
+        add your group members
+
+      clients (may be filled in later)
 
 Create map output
-  Layers
+  import layers
+    remote WMS -> Ghana search (by student)
+    local data
+    downloaded data (fe Copernicus)
+    Documents / reports (fe demographic data)
+
 
