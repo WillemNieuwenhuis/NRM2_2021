@@ -31,6 +31,7 @@ Setup environment
         add your group members
 
       clients (may be filled in later)
+  Geostory (Geonode component): not installed yet (nov 2021)
 
 Create map output
   import layers
